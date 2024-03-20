@@ -4,7 +4,9 @@ Links:
 
 _Importing IOMeter results.csv into Excel:
 1.Rename the results.csv to results.txt
+
 2.Open MS Excel
+
 3.File > Open > Text files type
 4.Data type delimited
 5.Next
