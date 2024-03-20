@@ -1,14 +1,16 @@
-Links:
+**Links:**
 - [Iometer project](http://www.iometer.org/)
 - [How to test performance on PowerEdge servers with Iometer](https://www.dell.com/support/kbdoc/en-us/000114193/how-to-test-performance-on-poweredge-servers-with-iometer)
 
-_Importing IOMeter results.csv into Excel:_
+**Notes:**
 
-_1.Rename the results.csv to results.txt_
+>Importing IOMeter results.csv into Excel:_
 
-_2.Open MS Excel_
+>1.Rename the results.csv to results.txt_
 
-_3.File > Open > Text files type_
+>2.Open MS Excel_
+
+>3.File > Open > Text files type_
 
 _4.Data type delimited_
 
