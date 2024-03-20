@@ -5,7 +5,6 @@
 **Notes:**
 
 >Importing IOMeter results.csv into Excel:_
-
 >1.Rename the results.csv to results.txt_
 
 >2.Open MS Excel_
