@@ -5,15 +5,11 @@
 **Notes:**
 
 ```
-Importing IOMeter results.csv into Excel:
+Since I always forget the exact steps here is a list of the steps as a note to self:
 1.Rename the results.csv to results.txt
-
->2.Open MS Excel_
-
->3.File > Open > Text files type_
-
-_4.Data type delimited_
-
+2.Open MS Excel
+3.File > Open > Text files type
+4.Data type delimited
 5.Next
 6.Delimiters comma
 7.Text qualifier “{none}”
